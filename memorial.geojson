@@ -1,0 +1,1201 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-06-17T09:11:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1747338679,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Egede",
+        "source": "Own survey",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9862858,
+          55.8587031
+        ]
+      },
+      "id": "node/1747338679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1747343430,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Tausen",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9849903,
+          55.8576388
+        ]
+      },
+      "id": "node/1747343430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1747343431,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Ole Worm",
+        "name:de": "Olaus Wormius",
+        "name:ru": "Оле Ворм",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.982571,
+          55.8563728
+        ]
+      },
+      "id": "node/1747343431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751671578,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Svane",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9837561,
+          55.8567692
+        ]
+      },
+      "id": "node/1751671578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751671584,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Chr. Thom. Sehested",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9850917,
+          55.8569123
+        ]
+      },
+      "id": "node/1751671584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751671603,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Morten Luther - Ansgar - Bugenhagen",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9861941,
+          55.8569289
+        ]
+      },
+      "id": "node/1751671603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751681660,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Peder Palladius",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9869534,
+          55.8594641
+        ]
+      },
+      "id": "node/1751681660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751690830,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Benedikt",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9920118,
+          55.8628763
+        ]
+      },
+      "id": "node/1751690830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751696690,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Jesper Brokmann",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9871463,
+          55.8631518
+        ]
+      },
+      "id": "node/1751696690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751706695,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Daniel Rantzau",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9862075,
+          55.8622065
+        ]
+      },
+      "id": "node/1751706695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751706712,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Arrild Hvitfeld",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9885893,
+          55.8623631
+        ]
+      },
+      "id": "node/1751706712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751706716,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Niels Lembak",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9871787,
+          55.8622848
+        ]
+      },
+      "id": "node/1751706716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751709571,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Herluf Trolle",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9818704,
+          55.859342
+        ]
+      },
+      "id": "node/1751709571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751712427,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Holger Rosenkrands",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9813581,
+          55.8625859
+        ]
+      },
+      "id": "node/1751712427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751715466,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Peder Griffenfeld",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9803549,
+          55.8603581
+        ]
+      },
+      "id": "node/1751715466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1751715467,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Thom. C. Bartholin - Thom. T Bartholin",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9806768,
+          55.8609241
+        ]
+      },
+      "id": "node/1751715467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755239017,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Peter Tordenskjold",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.977009,
+          55.8564352
+        ]
+      },
+      "id": "node/1755239017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755239021,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Niels Juel",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9764645,
+          55.856637
+        ]
+      },
+      "id": "node/1755239021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755239024,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Johan Rantzau",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9768776,
+          55.8568793
+        ]
+      },
+      "id": "node/1755239024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755239027,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Henrich Carl Schimmelmann",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9764699,
+          55.8569426
+        ]
+      },
+      "id": "node/1755239027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755239028,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Ferdinand af Brunsvig",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9770815,
+          55.856095
+        ]
+      },
+      "id": "node/1755239028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755244666,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Ludvig Holberg",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9776477,
+          55.8557954
+        ]
+      },
+      "id": "node/1755244666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755244667,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Absalon",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9781463,
+          55.8563735
+        ]
+      },
+      "id": "node/1755244667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755244669,
+        "historic": "memorial",
+        "name": "5 maj 1945",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9766147,
+          55.8564006
+        ]
+      },
+      "id": "node/1755244669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755245470,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Tyge Brahe",
+        "name:la": "Tycho Brahe",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9788008,
+          55.8567499
+        ]
+      },
+      "id": "node/1755245470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755245471,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "J.H.E. Bernstorff",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9781517,
+          55.857057
+        ]
+      },
+      "id": "node/1755245471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755251599,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Snorro Sturleson",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9791709,
+          55.8557382
+        ]
+      },
+      "id": "node/1755251599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755261399,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Rostgaard - Kirsten Pedersdatter",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9808607,
+          55.8560092
+        ]
+      },
+      "id": "node/1755261399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755261402,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Schach",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9794465,
+          55.856579
+        ]
+      },
+      "id": "node/1755261402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755265528,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Frederik Danneskiold-Samsøe",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9868206,
+          55.8600346
+        ]
+      },
+      "id": "node/1755265528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755267864,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Peder Skram",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9853242,
+          55.860727
+        ]
+      },
+      "id": "node/1755267864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755277377,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "lit": "no",
+        "name": "Ulrik Frederik Gyldenløve",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.983291,
+          55.8605676
+        ]
+      },
+      "id": "node/1755277377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755281178,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Arngrim Jonsen - Arnas Magnæus",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9841332,
+          55.8602605
+        ]
+      },
+      "id": "node/1755281178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755300172,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Iver Lykke",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9816707,
+          55.863614
+        ]
+      },
+      "id": "node/1755300172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1755305627,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Magnus Heinesen",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9807373,
+          55.8597606
+        ]
+      },
+      "id": "node/1755305627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1842873333,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Nansen",
+        "source": "own survey",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9806202,
+          55.8567117
+        ]
+      },
+      "id": "node/1842873333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1842873334,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Christoffer Gabel",
+        "source": "own survey",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9824495,
+          55.8567253
+        ]
+      },
+      "id": "node/1842873334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1868822019,
+        "artist_name": "H.W. Bissen",
+        "historic": "memorial",
+        "name": "Frederik VII",
+        "start_date": "1865",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9750929,
+          55.8563953
+        ]
+      },
+      "id": "node/1868822019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1874673060,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Gorm den Gamle",
+        "wheelchair": "no",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9679086,
+          55.8609586
+        ]
+      },
+      "id": "node/1874673060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1874673062,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Wittekind",
+        "old_name": "Widukind",
+        "wheelchair": "no",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9679006,
+          55.8607998
+        ]
+      },
+      "id": "node/1874673062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1874673064,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Skjold",
+        "wheelchair": "no",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9675921,
+          55.8608216
+        ]
+      },
+      "id": "node/1874673064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1874673065,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Frode Fredegod",
+        "wheelchair": "no",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9675774,
+          55.8609074
+        ]
+      },
+      "id": "node/1874673065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1874673068,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Dan Mykilati",
+        "wheelchair": "no",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9676639,
+          55.8609747
+        ]
+      },
+      "id": "node/1874673068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1874673070,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Harald Hildetan",
+        "wheelchair": "no",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9679623,
+          55.8608776
+        ]
+      },
+      "id": "node/1874673070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1874673071,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Harald Haarfager",
+        "wheelchair": "no",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9677953,
+          55.8609875
+        ]
+      },
+      "id": "node/1874673071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 1946387705,
+        "historic": "memorial",
+        "name": "Genforeningen 1920",
+        "start_date": "1924",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9742311,
+          55.8548206
+        ]
+      },
+      "id": "node/1946387705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2297109027,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Saxo Grammaticus",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.988162,
+          55.8615563
+        ]
+      },
+      "id": "node/2297109027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2297109029,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Henrik Gerner",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9877704,
+          55.861207
+        ]
+      },
+      "id": "node/2297109029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2297109032,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Ove Giedde",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9854724,
+          55.862022
+        ]
+      },
+      "id": "node/2297109032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2297109034,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Iver Hvitfeld",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9850182,
+          55.861428
+        ]
+      },
+      "id": "node/2297109034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524698,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Tyge Krabbe",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9784186,
+          55.8598787
+        ]
+      },
+      "id": "node/2301524698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524708,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Ove Bilde - Hans Gaas - Peder Svave",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9767395,
+          55.8592886
+        ]
+      },
+      "id": "node/2301524708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524715,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "T. Torfæus",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9825129,
+          55.8573867
+        ]
+      },
+      "id": "node/2301524715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524721,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Henrik Holk - Kort Adeler - Poul Løvenørn",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9830829,
+          55.8578381
+        ]
+      },
+      "id": "node/2301524721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524727,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Løvenhjelm - H.W. Meerheim - Schwanwede",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9837244,
+          55.8587264
+        ]
+      },
+      "id": "node/2301524727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524731,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "A. Arrebo - Anders Bording - Thomas Kingo - C.B. Tullin - Johannes Ewald",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9841771,
+          55.8592912
+        ]
+      },
+      "id": "node/2301524731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524735,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Joh. Friis - Chr. Friis til Borreby - Niels Kaas - Chr. Friis til Kragerup",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.981362,
+          55.8618065
+        ]
+      },
+      "id": "node/2301524735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524754,
+        "artist_name": "johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Jens Lassen - Ole Steenvinkel - Lorentz Tuxen - Henrik Gerner",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9820932,
+          55.8617436
+        ]
+      },
+      "id": "node/2301524754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301524762,
+        "artist_name": "johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hans Colbjørnsen - Peder Colbjørnsen - Anne Colbjørnsdatter",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9874924,
+          55.8603316
+        ]
+      },
+      "id": "node/2301524762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301553382,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Niels Ebbesen",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9828838,
+          55.8634045
+        ]
+      },
+      "id": "node/2301553382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301553386,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Hannibal Sehested",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9823706,
+          55.8613104
+        ]
+      },
+      "id": "node/2301553386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@type": "node",
+        "@id": 2301553389,
+        "artist_name": "Johannes Wiedewelt",
+        "historic": "memorial",
+        "name": "Peder Resen - Hans Gram - Erik Pontoppidan - Jac. Langebaek - Gerh. Schönning",
+        "@relations": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9833019,
+          55.8613637
+        ]
+      },
+      "id": "node/2301553389"
+    }
+  ]
+}
